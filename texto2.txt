@@ -1,2 +1,4 @@
 Editando texto2 de la rama1 en GITHUB
 Actualizando desde remoto.
+remoto
+
